@@ -30,7 +30,15 @@ By the end of this lesson, you will be able to:
 
 ## Activity
 
-There are three components to this lesson, in the following order:
+Data structures are a fundamental concept in computer science. A data structure is a container that stores data in a specific, organized way so that it can be accessed, used and analyzed. There are five basic operations that can be performed on data structures: 
+
+1. **Access**: Retrieving a specific data point
+2. **Insert**: Adding a data point
+3. **Delete**: Removing a data point
+4. **Search**: Determining whether a specific value is in the data set
+5. **Sort**: Ordering data points by one or more characteristics
+
+To learn more about data structures as well as one type (linked lists), there are three components to this lesson, which should be done in the following order:
 
 1. myGA module: [Introduction to Data Structures](https://my.generalassemb.ly/activities/878)
 2. myGA module: [Linked Lists](https://my.generalassemb.ly/activities/397)
