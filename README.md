@@ -37,7 +37,7 @@ There are three components to this lesson, in the following order:
 To do the in-class exercise, you can either...
 
 1. Fork and clone this repository to your local machine and work in the relevant files.
-2. Use [this codepen](https://codepen.io/GAmarketing/pen/MxWQVm) provided by the myGA Linked Lists module.
+2. Use [this codepen](https://codepen.io/GAmarketing/pen/MxWQVm) provided by the myGA Linked Lists module. (Includes the benefit of a test script.)
 
 ## Additional Resources
 
