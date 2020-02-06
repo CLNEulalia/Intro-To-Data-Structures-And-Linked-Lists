@@ -4,7 +4,7 @@
 
 ## Overview
 
-This lesson covers an introduction to the concept of Data Structures, as well as an overview of one data structure: linked lists. 
+This lesson covers an introduction to the concept of Data Structures, as well as an overview of one data structure: Linked Lists. 
 
 ## Learning Objectives
 
@@ -24,7 +24,7 @@ By the end of this lesson, you will be able to:
 ## Prerequisites
 
 - Introduction to Computer Science 
-- CS Algorithms
+- Algorithms
 
 ## Activity
 
