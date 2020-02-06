@@ -52,3 +52,4 @@ To do the in-class exercise, you can either...
 ## Additional Resources
 
 -   This [video](https://youtu.be/9YddVVsdG5A) from freeCodeCamp provides a great overview, visuals, as well as code sample for Linked Lists. The set up and variable names are slightly different from what is in your in-class exercise, but the principles are the same. It's also part of a larger series on Data Structures, which is highly recommended!
+- This [article](https://codeburst.io/linked-lists-in-javascript-es6-code-part-1-6dd349c3dcc3) from codeburst.io is another great overview of Linked Lists with code examples.
